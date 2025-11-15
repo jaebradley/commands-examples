@@ -1,3 +1,4 @@
+#!/bin/awk -f
 BEGIN {
   FS=","
 }
